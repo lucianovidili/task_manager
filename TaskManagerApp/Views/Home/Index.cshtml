@@ -1,0 +1,55 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center py-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+            <h1 class="display-4 text-primary mb-4">
+                <i class="bi bi-check2-square me-3"></i>Welcome to TaskManager
+            </h1>
+            <p class="lead text-muted mb-5">
+                Organize your life, one task at a time. Simple, efficient, and beautiful task management.
+            </p>
+            
+            <div class="row g-4 mb-5">
+                <div class="col-md-4">
+                    <div class="card h-100 border-0 shadow-sm">
+                        <div class="card-body text-center">
+                            <i class="bi bi-plus-circle display-4 text-primary mb-3"></i>
+                            <h5 class="card-title">Create Tasks</h5>
+                            <p class="card-text text-muted">Add new tasks with titles, descriptions, and due dates.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100 border-0 shadow-sm">
+                        <div class="card-body text-center">
+                            <i class="bi bi-list-check display-4 text-success mb-3"></i>
+                            <h5 class="card-title">Track Progress</h5>
+                            <p class="card-text text-muted">Monitor your tasks and mark them as completed.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100 border-0 shadow-sm">
+                        <div class="card-body text-center">
+                            <i class="bi bi-pencil-square display-4 text-warning mb-3"></i>
+                            <h5 class="card-title">Edit & Manage</h5>
+                            <p class="card-text text-muted">Update task details or remove completed items.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="d-flex justify-content-center gap-3">
+                <a href="/Tasks" class="btn btn-primary btn-lg">
+                    <i class="bi bi-list-task me-2"></i>View All Tasks
+                </a>
+                <a href="/Tasks/Create" class="btn btn-outline-primary btn-lg">
+                    <i class="bi bi-plus-circle me-2"></i>Create New Task
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
