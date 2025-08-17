@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8pNxHXqi3Ag=",
+  "dgSpecHash": "VMPrtnr76V0=",
   "success": true,
-  "projectFilePath": "C:\\Datos\\Proyectos_Tech\\task_manager_clean\\TaskManagerApp\\TaskManagerApp.csproj",
+  "projectFilePath": "C:\\Datos\\Proyectos_Tech\\task_manager\\TaskManagerApp\\TaskManagerApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Chano\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Chano\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

@@ -6641,11 +6641,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\datos\\Proyectos_Tech\\task_manager_clean\\TaskManagerApp\\TaskManagerApp.csproj",
+      "projectUniqueName": "C:\\Datos\\Proyectos_Tech\\task_manager\\TaskManagerApp\\TaskManagerApp.csproj",
       "projectName": "TaskManagerApp",
-      "projectPath": "C:\\datos\\Proyectos_Tech\\task_manager_clean\\TaskManagerApp\\TaskManagerApp.csproj",
+      "projectPath": "C:\\Datos\\Proyectos_Tech\\task_manager\\TaskManagerApp\\TaskManagerApp.csproj",
       "packagesPath": "C:\\Users\\Chano\\.nuget\\packages\\",
-      "outputPath": "C:\\datos\\Proyectos_Tech\\task_manager_clean\\TaskManagerApp\\obj\\",
+      "outputPath": "C:\\Datos\\Proyectos_Tech\\task_manager\\TaskManagerApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Chano\\AppData\\Roaming\\NuGet\\NuGet.Config"
